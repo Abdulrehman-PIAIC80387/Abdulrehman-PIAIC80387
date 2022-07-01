@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abdulrehman-PIAIC80387
+- 👋 Hi, I’m @Abdulrehman
 - 👀 I’m interested in Python Development
 - 🌱 I’m a Web developer 
 - 💞️ I’m looking to collaborate on varios Django projects.

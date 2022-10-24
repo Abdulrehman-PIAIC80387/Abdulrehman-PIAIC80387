@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abdulrehman
 - 👀 I’m interested in Python Development
 - 🌱 I’m a Web developer 
-- 💞️ I’m looking to collaborate on varios Django projects.
+- 💞️ I’m looking to collaborate on various Django projects.
 - 📫 How to reach me mirza.abdulrehman.336@gmail.com 
 
 <!---

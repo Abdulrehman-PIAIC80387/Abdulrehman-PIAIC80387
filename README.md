@@ -112,7 +112,7 @@ I'm always interested in connecting with other developers, collaborating on inte
 
 📧 **Email:** [mirza.abdulrehman.336@gmail.com](mailto:mirza.abdulrehman.336@gmail.com)
 
-💼 **LinkedIn:** [Connect with me on LinkedIn](YOUR_LINKEDIN_URL)
+💼 **LinkedIn:** https://www.linkedin.com/in/abdul-rehman-09940719a/
 
 🐙 **GitHub:** [@Abdulrehman-PIAIC80387](https://github.com/Abdulrehman-PIAIC80387)
 
